@@ -1,0 +1,9 @@
+[submodule "lib/keebio-Parts"]
+	path = lib/keebio-Parts
+	url = https://github.com/keebio/Keebio-Parts.pretty.git
+[submodule "lib/mikamo3"]
+	path = lib/mikamo3
+	url = https://github.com/mikamo3/kicad_lib.git
+[submodule "lib/swanmatch"]
+	path = lib/swanmatch
+	url = https://github.com/swanmatch/keyboard.pretty.git

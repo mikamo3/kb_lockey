@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name swanmatch)(type Legacy)(uri ${KIPRJMOD}/lib/swanmatch/kbd.lib)(options "")(descr ""))
+  (lib (name mikamo3)(type Legacy)(uri ${KIPRJMOD}/lib/mikamo3/mikamo3.lib)(options "")(descr ""))
+)
