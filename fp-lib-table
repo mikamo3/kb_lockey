@@ -1,3 +1,6 @@
 (fp_lib_table
-  (lib (name local)(type KiCad)(uri /home/mikamo/src/github.com/mikamo3/kb_lockey/lib/local)(options "")(descr ""))
+  (lib (name local)(type KiCad)(uri ${KIPRJMOD}/lib/local)(options "")(descr ""))
+  (lib (name mikamo3)(type KiCad)(uri ${KIPRJMOD}/lib/mikamo3/mikamo3.pretty)(options "")(descr ""))
+  (lib (name swanmatch)(type KiCad)(uri ${KIPRJMOD}/lib/swanmatch)(options "")(descr ""))
+  (lib (name keebio)(type KiCad)(uri ${KIPRJMOD}/lib/keebio-Parts)(options "")(descr ""))
 )
